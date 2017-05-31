@@ -1,3 +1,3 @@
 # hello-world
 Bismillahirrahmanirrahim!!
-Ilk deneme
+Ilk deneme=first try
