@@ -1,2 +1,3 @@
 # hello-world
-Ilk deneme
+Bismillahirrahmanirrahim!!
+Ilk deneme=first try
