@@ -1,3 +1,3 @@
 # hello-world
-Ilk deneme
 Bismillahirrahmanirrahim!!
+Ilk deneme
